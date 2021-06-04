@@ -1,0 +1,11 @@
+Notes*******************************************************************************************************************
+checked vs unchecked excemptions
+-throws is used when there might be an chance to throw the exxcception
+-in the code to deal a situation where we need to deal with he wxception trought cathing or making the main the dangerous
+method.
+-some exception cannot be caught until happens
+- one example given is that maybe in a library there is a method in which an exceptions is thrwon and it is your job to deal
+with the objective.
+File exceptions and buffer io
+-error handling code keep seperate form the running code
+= in a error filing way you riun the code and if the code fails the you deal the wway iut is thropugh seperation through excemptions
